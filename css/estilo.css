@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col{
+    text-align: center;
+    margin: 5px;
+}
+
+.progress{
+    margin: 30px;
+}
+
+footer{
+    background-color: darkturquoise;
+    padding: 3%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+header{
+    margin-bottom: 15px;
+}
+
+img{
+    width: 50%;
+}
